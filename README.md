@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm renjiiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renjiiro&label=Profile%20views&color=0e75b6&style=flat" alt="renjiiro" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -11,5 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjiiro&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="renjiiro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renjiiro&show_icons=true&theme=synthwave&locale=en" alt="renjiiro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renjiiro&theme=dark" alt="renjiiro" /></p>
